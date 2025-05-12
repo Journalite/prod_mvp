@@ -17,6 +17,8 @@ out/
 
 # Firebase emulators
 .firebase/
+.firebaserc
+
 firestore-debug.log
 
 # macOS and system junk
