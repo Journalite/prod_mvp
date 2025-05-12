@@ -1,0 +1,29 @@
+
+*storybook.log
+node_modules/
+.env*
+
+
+node_modules/
+npm-debug.log*
+
+# Next.js
+.next/
+out/
+*.local
+.env*
+.env.local
+.env.development
+
+# Firebase emulators
+.firebase/
+firestore-debug.log
+
+# macOS and system junk
+.DS_Store
+Thumbs.db
+
+# VSCode or editor files
+.vscode/
+.idea/
+*.swp
